@@ -1,0 +1,17 @@
+.popSuccess {
+	height: fit-content;
+	backdrop-filter: blur(8px);
+	background-color: #00000050;
+	border-radius: 8px;
+	border: 1px solid green;
+	box-shadow: 0 0 10px 0 green;
+}
+
+.popDanger {
+	height: fit-content;
+	backdrop-filter: blur(8px);
+	background-color: #00000050;
+	border-radius: 8px;
+	border: 1px solid red;
+	box-shadow: 0 0 10px 0 rgb(233, 98, 98);
+}

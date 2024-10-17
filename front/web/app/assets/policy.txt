@@ -1,0 +1,115 @@
+Privacy Policy
+
+Version: 1.0
+
+1. Introduction
+   This privacy policy outlines how we manage and protect your personal data.
+
+2. Data We Collect
+   - Username: Your login identifier and account name.
+   - Password: Your login credential.
+   - Profile Picture: Displayed only.
+   - Default Language: The site's default language only.
+   - Friends List: Accessible friends list on the site.
+   - Last Activity: Used only to display your connection status to your friends.
+
+3. Data Deletion
+   All data can be destroyed upon account deletion.
+
+4. Encryption
+   Personal information such as username, email, and default language can be encrypted upon request on the user profile settings page.
+
+5. Profile Picture Management
+   The profile picture can be deleted or modified.
+
+6. Account Information Management
+   - Password can be modified.
+   - Username can be modified.
+   - Email can be modified or deleted in the 2FA options.
+
+7. Sensitive Data
+   Sensitive data can be downloaded from the profile page.
+
+8. Authentication Tokens
+   Authentication tokens are necessary for the site's login/register functionality and cannot be declined. They have a duration of 15 minutes for access tokens and 30 days for refresh tokens, and they are protected by HTTPS rules.
+
+9. Data Sharing
+   We do not share your data with anyone.
+
+
+Politique de Confidentialité
+
+Version: 1.0
+
+1. Introduction
+   Cette politique de confidentialité décrit comment nous gérons et protégeons vos données personnelles.
+
+2. Données Que Nous Collectons
+   - Nom d'utilisateur : Votre identifiant de connexion et nom de compte.
+   - Mot de passe : Votre identifiant de connexion.
+   - Photo de Profil : Affichage seulement.
+   - Langue Par Défaut : Langue par défaut du site seulement.
+   - Liste d'Amis : Liste d'amis accessible sur le site.
+   - Dernière Activité : Sert seulement à afficher votre statut de connexion pour vos amis.
+
+3. Suppression des Données
+   Toutes les données peuvent être détruites lors de la suppression du compte.
+
+4. Chiffrement
+   Les informations personnelles telles que le nom d'utilisateur, l'e-mail et la langue par défaut peuvent être chiffrées sur demande dans la page des paramètres du profil utilisateur.
+
+5. Gestion de la Photo de Profil
+   La photo de profil peut être supprimée ou modifiée.
+
+6. Gestion des Informations de Compte
+   - Le mot de passe peut être modifié.
+   - Le nom d'utilisateur peut être modifié.
+   - L'e-mail peut être modifié ou supprimé dans les options de 2FA.
+
+7. Données Sensibles
+   Les données sensibles peuvent être téléchargées depuis la page de profil.
+
+8. Tokens d'Authentification
+   Les tokens d'authentification sont nécessaires au fonctionnement de la connexion / enregistrement du site et ne peuvent pas être déclinés. Ils ont une durée de 15 minutes pour les tokens d'accès et de 30 jours pour les tokens de rafraîchissement, et sont protégés par des règles HTTPS.
+
+9. Partage des Données
+   Nous ne partageons vos données avec personne.
+
+
+Politica sulla Privacy
+
+Versione: 1.0
+
+1. Introduzione
+   Questa politica sulla privacy descrive come gestiamo e proteggiamo i tuoi dati personali.
+
+2. Dati Che Raccoltiamo
+   - Nome utente: Il tuo identificatore di accesso e nome account.
+   - Password: Le tue credenziali di accesso.
+   - Immagine del Profilo: Visualizzata solo.
+   - Lingua Predefinita: La lingua predefinita del sito solo.
+   - Lista di Amici: Lista di amici accessibile sul sito.
+   - Ultima Attività: Serve solo per visualizzare il tuo stato di connessione per i tuoi amici.
+
+3. Cancellazione dei Dati
+   Tutti i dati possono essere distrutti al momento della cancellazione dell'account.
+
+4. Crittografia
+   Le informazioni personali come nome utente, email e lingua predefinita possono essere crittografate su richiesta nella pagina delle impostazioni del profilo utente.
+
+5. Gestione dell'Immagine del Profilo
+   L'immagine del profilo può essere eliminata o modificata.
+
+6. Gestione delle Informazioni dell'Account
+   - La password può essere modificata.
+   - Il nome utente può essere modificato.
+   - L'email può essere modificata o eliminata nelle opzioni del 2FA.
+
+7. Dati Sensibili
+   I dati sensibili possono essere scaricati dalla pagina del profilo.
+
+8. Token di Autenticazione
+   I token di autenticazione sono necessari per il funzionamento del login / registrazione del sito e non possono essere rifiutati. Hanno una durata di 15 minuti per i token di accesso e 30 giorni per i token di refresh, e sono protetti dalle regole HTTPS.
+
+9. Condivisione dei Dati
+   Non condividiamo i tuoi dati con nessuno.

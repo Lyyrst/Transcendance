@@ -1,0 +1,18 @@
+.matchItem {
+	flex: 2;
+}
+
+.vsItem {
+	background: linear-gradient(
+			to right,
+			#e91e51	 20%,
+			#9a66e0	 30%,
+			#3133ec 70%,
+			#e72a2a 80%
+	);
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-size: 500% auto;
+	animation: shine 4s infinite alternate;
+	flex: 1;
+ }

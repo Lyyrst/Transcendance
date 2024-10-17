@@ -1,0 +1,62 @@
+services:
+  postgres:
+    image: postgres
+    restart: always
+    volumes:
+    - postgres:/var/lib/postgresql/_data
+    networks:
+    - Transcendence
+    expose:
+    - "5432"
+    environment:
+      POSTGRES_PASSWORD: 29KezYvQmJ4wygF
+      POSTGRES_USER: chief
+      POSTGRES_DB: Transcendence
+
+  django:
+    container_name: django
+    build:
+      context: backend/django/.
+      dockerfile: Dockerfile
+    env_file:
+      - .env
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    volumes:
+      - django:/transcendence
+    networks:
+      - Transcendence
+    depends_on:
+      - postgres
+    
+  nginx:
+    container_name: nginx
+    build:
+      dockerfile: nginx/Dockerfile
+    env_file:
+      - .env
+    ports:
+      - "8443:8443"
+    restart: unless-stopped
+    networks:
+      - Transcendence
+    
+  
+volumes:
+  postgres:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: data/postgres
+  django:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: data/django
+
+networks:
+  Transcendence:
+    driver: bridge
