@@ -1,27 +1,96 @@
-<br>
-
-### Modules
-
-|    |           Category           | Module | Point | status |
-| :-----: | :--------------------------: | :----- | :------: | :----: |
-| `Major` | Web - Backend                          | [Use a Framework as backend] | 1 | &#9989; |
-| `Minor` | Web - Frontend                          | [Use a front-end framework or toolkit] | 0.5 |&#9989; |
-| `Minor` | Web - Backend                          | [Use a database for the backend] | 0.5 |&#9989; |
-| `Major` | User management                          | [Standard user management, authentication, users across tournaments] | 1 | WIP |
-| `Major` | User management                          | [Implementing a remote authentication] | 1 | &#10060; |
-| `Major` | Gameplay                          | [Remote players] | 1 | &#10060; |
-| `Major` | Gameplay                          | [Multiplayers] | 1 | &#10060; |
-| `Major` | Gameplay                          | [Add Another Game with User History and Matchmaking] | 1 | &#10060; |
-| `Minor` | Gameplay                         | [Game Customization Options] | 0.5 | &#10060; |
-| `Minor` | Accessibility                         | [Support on all devices] | 0.5 | &#9989; |
-| `Minor` | Accessibility                         | [Expanding Browser Compatibility] | 0.5 | &#9989; |
-| `Minor` | Accessibility                         | [Multiple language supports] | 0.5 | &#9989; |
-| `Major` | Graphics                         | [ Use of advanced 3D techniques] | 1 |  &#10060; |
-| `Major` | Cybersecurity | [ Implement Two-Factor Authentication (2FA) and JWT.] | 1 | WIP |
-| | | | 11/9.5 | 3.5/9.5 |
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<a name="readme-top"></a>
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
 
-to start the front without nginx: <br>
-`npm install http-server` <br>
-`cd front/web` <br>
-`npx http-server --spa -P http://localhost:8080?`
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="logo/Redfox_coding.jpg" alt="Logo" width="160" height="160">
+  </a>
+
+  <h3 align="center">TRANSCENDANCE</h3>
+
+
+
+</div>
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+This project is the last one of the 42's Common Core, our first web project in a FullStack application.
+
+- **Django** : API RESTful for the backend.
+- **PostgreSQL** : database.
+- **Docker** : Docker with django / postgres / nginx.
+- **Pure JS Router** : SPA features re-write in a PURE JS, as a mini-Angular.
+
+This project main difficulty is about creating a **Single Page Application whithout a framework**, so in PURE JS, without libraries also.
+I make this with a friend to help me, available in the front/web/spa folder, who works as a mini-Angular, with service and components, and it's use by the application in front/web/app for the project.
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+### Prerequisites
+- ports 8443 available
+
+### Installation
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Lyyrst/Transcendance.git
+2. Makefile !
+   ```sh
+   make
+   ```
+3. [Head to the website !](https://localhost:8443)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
+## Contact
+
+[Discord : lyrst](https://discord.com/users/257192704537001984)
+
+kurt.butorp@gmail.com
+
+## Reminder
+
+Please remember that this project is one of the first I did as a computer science learner, it does not reflect my actual skills but through which project I learned programming.
