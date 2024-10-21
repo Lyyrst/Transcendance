@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="logo/Redfox_coding.jpg" alt="Logo" width="160" height="160">
+    <img src="RDAssets/Redfox_coding.jpg" alt="Logo" width="160" height="160">
   </a>
 
   <h3 align="center">TRANSCENDANCE</h3>
@@ -67,6 +67,17 @@ This project main difficulty is about creating a **Single Page Application whith
 I make this with a friend to help me, available in the front/web/spa folder, who works as a mini-Angular, with service and components, and it's use by the application in front/web/app for the project.
 
 <!-- GETTING STARTED -->
+## Some screenshots
+
+### Customize your games
+<img src="RDAssets/customPongScreenshot.png" alt="Logo">
+
+### Profile with profile picture, match history, 2Fa or RGPD rights
+<img src="RDAssets/profileScreenshot.png" alt="Logo">
+
+### The site is responsive ! (you have a friendlist btw)
+<img src="RDAssets/friendListScreenshot.png" alt="Logo">
+
 ## Getting Started
 
 ### Prerequisites
@@ -80,7 +91,11 @@ I make this with a friend to help me, available in the front/web/spa folder, who
    ```sh
    make
    ```
-3. [Head to the website !](https://localhost:8443)
+   or
+   ```sh
+   make re
+   ```
+4. [Head to the website !](https://localhost:8443)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
