@@ -1,0 +1,9 @@
+backend/django/.ft_django
+backend/django/ft_django/__pycache__
+*.idea
+node_modules
+package-lock.json
+package.json
+data/django/*
+data/postgres/*
+nginx/cert
